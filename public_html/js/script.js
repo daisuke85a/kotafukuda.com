@@ -14,7 +14,7 @@ $(function() {
 /* instagram */
 $(function () {
   try {
-      this.name = "kotafukuda0111";
+      this.name = "kota_drum";
       $.ajax('https://www.instagram.com/' + this.name + '/', {
           timeout: 2000,
           datatype: 'html'
