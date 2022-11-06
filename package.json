@@ -1,0 +1,21 @@
+{
+  "name": "kotafukuda.com",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "node-sass --include-path scss public_html/css/style.scss public_html/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisuke85a/kotafukuda.com.git"
+  },
+  "author": "Daisuke Saito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daisuke85a/kotafukuda.com/issues"
+  },
+  "homepage": "https://github.com/daisuke85a/kotafukuda.com#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
